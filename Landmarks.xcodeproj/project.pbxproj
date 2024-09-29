@@ -16,6 +16,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		3CC43CCC2CA9984800EB76EE /* Docs */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Docs;
+			sourceTree = "<group>";
+		};
 		3CC59A4B2C9EA3D000911908 /* Landmarks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Landmarks;
@@ -37,6 +42,7 @@
 		3CC59A402C9EA3D000911908 = {
 			isa = PBXGroup;
 			children = (
+				3CC43CCC2CA9984800EB76EE /* Docs */,
 				3CC59A4B2C9EA3D000911908 /* Landmarks */,
 				3CC59A4A2C9EA3D000911908 /* Products */,
 				3CC59AC52C9F111800911908 /* README.md */,
@@ -67,6 +73,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				3CC43CCC2CA9984800EB76EE /* Docs */,
 				3CC59A4B2C9EA3D000911908 /* Landmarks */,
 			);
 			name = Landmarks;
